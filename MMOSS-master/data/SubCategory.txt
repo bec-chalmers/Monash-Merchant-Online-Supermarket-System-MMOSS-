@@ -1,0 +1,17 @@
+subcategory_name,category_name
+Phones,Electronics
+Laptops,Electronics
+Accessories,Electronics
+Novels,Books
+Textbooks,Books
+Skincare,Beauty
+Haircare,Beauty
+Oral Care,Personal Care
+Hygiene,Personal Care
+Snacks,Food
+Dairy,Food
+Bakery,Food
+Tea,Beverages
+Coffee,Beverages
+Juice,Beverages
+

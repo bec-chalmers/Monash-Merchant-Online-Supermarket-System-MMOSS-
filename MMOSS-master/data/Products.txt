@@ -1,0 +1,10 @@
+product_id,name,brand,description,price,member_price,quantity,category_name,subcategory_name,is_food,expiry_date,ingredient_list,storage_instructions,allergen_info
+P1,"USB-C Charger 20W","Anker","Fast-charge wall adapter",24.99,19.99,42,Electronics,Accessories,false,,,,
+P2,"Wireless Earbuds","SoundMax","24h case battery",59.00,49.00,30,Electronics,Accessories,false,,,,
+P3,"Smartphone A13","Acme","6.1 display 128GB",499.00,459.00,12,Electronics,Phones,false,,,,
+P4,"Almond Cookies 200g","BakeCo","Crunchy cookies",5.90,5.20,0,Food,Bakery,true,2025-11-30,"Wheat flour, sugar, almonds","Keep sealed, cool & dry","Contains nuts, gluten"
+P6,"Greek Yogurt 500g","DairyBest","Plain yogurt",4.20,3.80,22,Food,Dairy,true,2025-12-05,"Milk, cultures","Refrigerate at ≤4°C","Contains milk"
+P7,"Potato Chips 150g","SnackTime","Sea salted",3.50,3.00,80,Food,Snacks,true,2026-03-15,"Potatoes, vegetable oil, salt","Store in a cool, dry place","May contain traces of milk"
+P8,"Green Tea 100g","TLeaf","Loose-leaf green tea",8.50,7.20,120,Beverages,Tea,true,2026-05-01,"Green tea leaves","Cool, dry place","None"
+P9,"Arabica Coffee Beans 250g","RoastLab","Medium roast",12.90,11.50,54,Beverages,Coffee,true,2026-02-28,"100% Arabica coffee","Store airtight","None"
+P10,"Orange Juice 1L","SunSqueeze","No added sugar",3.80,3.40,36,Beverages,Juice,true,2025-10-20,"Orange juice (100%)","Refrigerate after opening","None

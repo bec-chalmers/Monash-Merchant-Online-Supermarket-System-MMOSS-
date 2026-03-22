@@ -1,0 +1,3 @@
+email,password,first_name,last_name,mobile_number,date_of_birth,gender,building_number,street_number,street_name,suburb,state,postcode,is_student,balance
+student@monash.edu,Monash1234!,Sally,Jones,0412345678,25122000,F,0,1,Default St,Glen Waverley,VIC,3150,true,1000.00,false
+staff@monash.edu,Monash1234!,John,Smith,0456789123,15111882,M,20,1,Main St,Clayton,VIC,3800,false,1000.00,false

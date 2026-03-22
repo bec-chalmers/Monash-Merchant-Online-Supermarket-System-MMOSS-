@@ -1,0 +1,2 @@
+name,buildingNumber,streetNumber,streetName,suburb,state,postcode,phone,hours
+Monash Merchant Clayton,3,28,Sports Walk,Clayton,VIC,3168,0399052292,9am-10pm Mon-Fri 11am-6pm Sat-Sun

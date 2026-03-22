@@ -1,0 +1,2 @@
+user_name,membership_type,order_date,pickup_or_delivery,promo_code,discount_total,total_cost,item_summary
+staff@monash.edu,,2025-10-17T15:49:29.189718,Delivery,HAPPYHOUR25,33.489999999999995,120.46999999999998,USB-C Charger 20W:24.99:4:99.96;Green Tea 100g:8.5:4:34.0

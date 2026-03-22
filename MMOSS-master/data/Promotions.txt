@@ -1,0 +1,3 @@
+code,description,amountOff,percentageOff,validPeriod,type,conditions
+NEWMONASH20,20% off first-time pickup order,0,20,First-time pickup only,FIRST_ORDER,"pickup_only"
+HAPPYHOUR25,25% off everyday from 12pm-4pm,0,25,"Between 12pm–4pm (AEST)",TIME_BASED,"12:00-16:00"
